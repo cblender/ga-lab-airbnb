@@ -1,0 +1,115 @@
+h1 {
+  color: #424242;
+  font-family: "Work Sans", sans-serif;
+  font-size: 42px;
+  text-align: center;
+  font-weight: 600;
+}
+
+h2 {
+  color: white;
+  font-family: "Work Sans", sans-serif;
+  font-size: 42px;
+  text-align: center;
+  font-weight: 600;
+}
+
+h3 {
+  color: #424242;
+  font-family: "Work Sans", sans-serif;
+  font-size: 22px;
+  text-align: center;
+  font-weight: 400;
+}
+
+body {
+  background-color: #edefec;
+}
+
+button {
+  width: 27%;
+  height: 50px;
+  color: #424242;
+  font-family: "Work Sans", sans-serif;
+  font-size: 16px;
+  text-align: center;
+  font-weight: 400;
+}
+
+div {
+  text-align: center;
+}
+
+img {
+  width: 100%;
+}
+
+.button {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.card {
+  position: relative;
+  text-align: center;
+  width: 27%;
+  height: 420px;
+  margin: 20px 20px 20px 20px;
+}
+
+.gallery {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: nowrap;
+  flex-direction: row;
+}
+
+.place {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+#SanFran {
+  background-image: url("../img/san-francisco.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: 50% 50%;
+}
+
+#NewYork {
+  background-image: url("../img/new-york.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: 50% 50%;
+}
+
+#London {
+  background-image: url("../img/london.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: 50% 50%;
+}
+
+#Napa {
+  background-image: url("../img/napa.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: 50% 50%;
+}
+
+#Sonoma {
+  background-image: url("../img/sonoma.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: 50% 50%;
+}
+
+#SanFran2 {
+  background-image: url("../img/san-francisco-2.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: 50% 50%;
+}
