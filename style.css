@@ -73,42 +73,42 @@ img {
 }
 
 #SanFran {
-  background-image: url("../img/san-francisco.jpg");
+  background-image: url("./lib/img/san-francisco.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: 50% 50%;
 }
 
 #NewYork {
-  background-image: url("../img/new-york.jpg");
+  background-image: url("./lib/img/new-york.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: 50% 50%;
 }
 
 #London {
-  background-image: url("../img/london.jpg");
+  background-image: url("./lib/img/london.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: 50% 50%;
 }
 
 #Napa {
-  background-image: url("../img/napa.jpg");
+  background-image: url("./lib/img/napa.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: 50% 50%;
 }
 
 #Sonoma {
-  background-image: url("../img/sonoma.jpg");
+  background-image: url("./lib/img/sonoma.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: 50% 50%;
 }
 
 #SanFran2 {
-  background-image: url("../img/san-francisco-2.jpg");
+  background-image: url("./lib/img/san-francisco-2.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: 50% 50%;
